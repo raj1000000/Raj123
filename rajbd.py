@@ -213,10 +213,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-https://wa.me/NUMBER')
+            os.system('xdg-https://wa.me/01673833783')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-https://wa.me/NUMBER')
+        os.system('xdg-https://wa.me/01673833783')
 
 
 numm = [5,2,5,2,2]
@@ -271,7 +271,7 @@ def action():
     elif peak =="1":              
         os.system("clear")
         print logo2
-        print "\033[1;94mEnter any Bangladesh Mobile code Number"+'\n'
+        print "\033[1;94mEnter any Pakistan Mobile code Number"+'\n'
         print '\033[1;92mEnter any code 01 02 03 04 05 06 07 08 10 11 12 13 14 15 16 20 21 22 23 24 30 31 32 33 34 35 36 40 41 42 43 44 45 46 47 48 49'
         for i in numm:
             print('x' * i)
@@ -420,7 +420,7 @@ def action():
 
 
 \033[1;96mThanks For Using My tool
-\033[1;95mFb\033[1;97mRED-MAFIA"""
+\033[1;95mFb\033[1;97mRAJ-BD"""
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
